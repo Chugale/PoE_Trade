@@ -23,6 +23,6 @@ dist-ssr
 *.sln
 *.sw?
 
-#Files, csvs, env, etc
-src/database/csv/*
+#Additional Ignores
 .env
+database/csv/*

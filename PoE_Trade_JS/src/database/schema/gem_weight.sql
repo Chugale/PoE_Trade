@@ -1,4 +1,4 @@
--- \i /Users/ericlee/Desktop/TestProjects/PoE_Trade/PoE_Trade/src/database/psql_schema/gem_weight.sql;
+-- \i /Users/ericlee/Desktop/TestProjects/PoE_Trade/PoE_Trade_JS/src/database/schema/gem_weight.sql;
 \c temp;
 DROP DATABASE IF EXISTS skillgems;
 CREATE DATABASE skillgems;
@@ -23,7 +23,9 @@ CREATE TABLE gem_weight (
 );
 
 COPY initial(id, name, type, weight)
-FROM '/Users/ericlee/HackReactor/MVP/gems.csv';
+FROM '/Users/ericlee/Desktop/TestProjects/PoE_Trade/PoE_Trade_JS/src/database/csv/gem_weight.csv'
+DELIMITER ',';
+
 
 INSERT INTO gem_weight (name)
 SELECT DISTINCT name FROM initial;
