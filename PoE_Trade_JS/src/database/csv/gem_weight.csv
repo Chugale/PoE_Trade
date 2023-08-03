@@ -1,0 +1,1619 @@
+1,Fireball,Superior,50
+2,Fireball,Anomalous,100
+3,Fireball,Divergent,40
+4,Fireball,Phantasmal,10
+5,Vaal Fireball,Superior,50
+6,Ice Nova,Superior,50
+7,Ice Nova,Anomalous,100
+8,Ice Nova,Divergent,100
+9,Ice Nova,Phantasmal,100
+10,Vaal Ice Nova,Superior,50
+11,Leap Slam,Superior,50
+12,Leap Slam,Anomalous,100
+13,Leap Slam,Divergent,100
+14,Leap Slam,Phantasmal,20
+15,Charged Dash,Superior,50
+16,Charged Dash,Anomalous,20
+17,Charged Dash,Divergent,100
+18,Blade Flurry,Superior,50
+19,Blade Flurry,Anomalous,100
+20,Blade Flurry,Divergent,50
+21,Sweep,Superior,50
+22,Sweep,Anomalous,100
+23,Sweep,Divergent,100
+24,Sweep,Phantasmal,20
+25,Ground Slam,Superior,50
+26,Ground Slam,Anomalous,100
+27,Ground Slam,Divergent,50
+28,Vaal Ground Slam,Superior,50
+29,Cleave,Superior,50
+30,Cleave,Anomalous,20
+31,Cleave,Divergent,50
+32,Cleave,Phantasmal,50
+33,Shield Charge,Superior,50
+34,Shield Charge,Anomalous,100
+35,Shield Charge,Divergent,100
+36,Enduring Cry,Superior,50
+37,Enduring Cry,Anomalous,100
+38,Enduring Cry,Divergent,20
+39,Double Strike,Superior,50
+40,Double Strike,Anomalous,100
+41,Double Strike,Divergent,100
+42,Vaal Double Strike,Superior,50
+43,Lacerate,Superior,50
+44,Lacerate,Anomalous,100
+45,Lacerate,Divergent,100
+46,Elemental Hit,Superior,50
+47,Elemental Hit,Anomalous,100
+48,Elemental Hit,Divergent,100
+49,Immortal Call,Superior,50
+50,Immortal Call,Anomalous,100
+51,Immortal Call,Divergent,10
+52,Vaal Immortal Call,Superior,50
+53,Dual Strike,Superior,50
+54,Dual Strike,Anomalous,100
+55,Dual Strike,Divergent,100
+56,Dual Strike,Phantasmal,20
+57,Whirling Blades,Superior,50
+58,Whirling Blades,Anomalous,100
+59,Whirling Blades,Divergent,20
+60,Frenzy,Superior,50
+61,Frenzy,Anomalous,100
+62,Frenzy,Divergent,20
+63,Frenzy,Phantasmal,50
+64,Detonate Dead,Superior,50
+65,Detonate Dead,Anomalous,10
+66,Detonate Dead,Divergent,20
+67,Vaal Detonate Dead,Superior,50
+68,Volatile Dead,Superior,50
+69,Volatile Dead,Anomalous,100
+70,Volatile Dead,Divergent,20
+71,Unearth,Superior,50
+72,Unearth,Anomalous,100
+73,Unearth,Divergent,100
+74,Unearth,Phantasmal,20
+75,Split Arrow,Superior,50
+76,Split Arrow,Anomalous,20
+77,Split Arrow,Divergent,100
+78,Added Fire Damage Support,Superior,50
+79,Added Fire Damage Support,Anomalous,50
+80,Added Fire Damage Support,Divergent,100
+81,Faster Attacks Support,Superior,50
+82,Faster Attacks Support,Anomalous,5
+83,Faster Attacks Support,Divergent,50
+84,Greater Multiple Projectiles Support,Superior,50
+85,Greater Multiple Projectiles Support,Anomalous,100
+86,Greater Multiple Projectiles Support,Divergent,50
+87,Lesser Multiple Projectiles Support,Superior,50
+88,Lesser Multiple Projectiles Support,Anomalous,100
+89,Lesser Multiple Projectiles Support,Divergent,50
+90,Faster Projectiles Support,Superior,50
+91,Faster Projectiles Support,Anomalous,100
+92,Faster Projectiles Support,Divergent,100
+93,Added Cold Damage Support,Superior,50
+94,Added Cold Damage Support,Anomalous,100
+95,Added Cold Damage Support,Divergent,100
+96,Additional Accuracy Support,Superior,50
+97,Additional Accuracy Support,Anomalous,100
+98,Additional Accuracy Support,Divergent,20
+99,Increased Area of Effect Support,Superior,100
+100,Increased Area of Effect Support,Anomalous,50
+101,Increased Area of Effect Support,Divergent,50
+102,Added Lightning Damage Support,Superior,50
+103,Added Lightning Damage Support,Anomalous,100
+104,Added Lightning Damage Support,Divergent,100
+105,Cold Snap,Superior,50
+106,Cold Snap,Anomalous,100
+107,Cold Snap,Divergent,100
+108,Vaal Cold Snap,Superior,50
+109,Raise Zombie,Superior,50
+110,Raise Zombie,Anomalous,100
+111,Raise Zombie,Divergent,100
+112,Raise Zombie,Phantasmal,10
+113,Caustic Arrow,Superior,50
+114,Caustic Arrow,Anomalous,100
+115,Caustic Arrow,Divergent,100
+116,Blood Rage,Superior,50
+117,Blood Rage,Anomalous,5
+118,Blood Rage,Divergent,50
+119,Righteous Fire,Superior,50
+120,Righteous Fire,Anomalous,100
+121,Righteous Fire,Divergent,100
+122,Vaal Righteous Fire,Superior,50
+123,Discharge,Superior,50
+124,Discharge,Anomalous,100
+125,Discharge,Divergent,5
+126,Discharge,Phantasmal,20
+127,Portal,Superior,10000
+128,Portal,Anomalous,1
+129,Vaal Breach,Superior,50
+130,Inspiration Support,Superior,50
+131,Inspiration Support,Anomalous,100
+132,Inspiration Support,Divergent,100
+133,Increased Critical Strikes Support,Superior,50
+134,Increased Critical Strikes Support,Anomalous,100
+135,Increased Critical Strikes Support,Divergent,20
+136,Increased Critical Damage Support,Superior,50
+137,Increased Critical Damage Support,Anomalous,100
+138,Increased Critical Damage Support,Divergent,100
+139,Knockback Support,Superior,50
+140,Knockback Support,Anomalous,100
+141,Knockback Support,Divergent,100
+142,Life Leech Support,Superior,50
+143,Life Leech Support,Anomalous,100
+144,Life Leech Support,Divergent,50
+145,Mana Leech Support,Superior,50
+146,Mana Leech Support,Anomalous,5
+147,Mana Leech Support,Divergent,20
+148,Added Chaos Damage Support,Superior,50
+149,Added Chaos Damage Support,Anomalous,100
+150,Added Chaos Damage Support,Divergent,100
+151,Flicker Strike,Superior,50
+152,Flicker Strike,Anomalous,100
+153,Flicker Strike,Divergent,100
+154,Vaal Flicker Strike,Superior,50
+155,Spark,Superior,50
+156,Spark,Anomalous,100
+157,Spark,Divergent,100
+158,Spark,Phantasmal,100
+159,Vaal Spark,Superior,50
+160,Stun Support,Superior,50
+161,Stun Support,Anomalous,100
+162,Stun Support,Divergent,10
+163,Ice Spear,Superior,50
+164,Ice Spear,Anomalous,20
+165,Ice Spear,Divergent,100
+166,Ice Spear,Phantasmal,50
+167,Pierce Support,Superior,50
+168,Pierce Support,Anomalous,100
+169,Pierce Support,Divergent,100
+170,Trap Support,Superior,50
+171,Trap Support,Anomalous,100
+172,Trap Support,Divergent,100
+173,Raise Spectre,Superior,50
+174,Raise Spectre,Anomalous,100
+175,Raise Spectre,Divergent,100
+176,Raise Spectre,Phantasmal,20
+177,Infernal Blow,Superior,50
+178,Infernal Blow,Anomalous,20
+179,Infernal Blow,Divergent,100
+180,Infernal Blow,Phantasmal,100
+181,Glacial Hammer,Superior,50
+182,Glacial Hammer,Anomalous,100
+183,Glacial Hammer,Divergent,100
+184,Vaal Glacial Hammer,Superior,50
+185,Frost Wall,Superior,50
+186,Frost Wall,Anomalous,100
+187,Frost Wall,Divergent,100
+188,Freezing Pulse,Superior,50
+189,Freezing Pulse,Anomalous,50
+190,Freezing Pulse,Divergent,20
+191,Shock Nova,Superior,50
+192,Shock Nova,Anomalous,50
+193,Shock Nova,Divergent,100
+194,Viper Strike,Superior,50
+195,Viper Strike,Anomalous,100
+196,Viper Strike,Divergent,100
+197,Viper Strike,Phantasmal,10
+198,Old Phase Run,Superior,50
+199,Old Phase Run,Anomalous,100
+200,Old Phase Run,Divergent,50
+201,Phase Run,Superior,50
+202,Phase Run,Anomalous,100
+203,Phase Run,Divergent,50
+204,Melee Physical Damage Support,Superior,50
+205,Melee Physical Damage Support,Anomalous,10
+206,Melee Physical Damage Support,Divergent,50
+207,Item Quantity Support,Superior,50
+208,Item Rarity Support,Superior,10000
+209,Item Rarity Support,Anomalous,1
+210,Faster Casting Support,Superior,50
+211,Faster Casting Support,Anomalous,5
+212,Faster Casting Support,Divergent,50
+213,Explosive Arrow,Superior,50
+214,Explosive Arrow,Anomalous,100
+215,Explosive Arrow,Divergent,20
+216,Temporal Chains,Superior,50
+217,Temporal Chains,Anomalous,100
+218,Temporal Chains,Divergent,100
+219,Elemental Weakness,Superior,50
+220,Elemental Weakness,Anomalous,100
+221,Elemental Weakness,Divergent,100
+222,Warlord's Mark,Superior,50
+223,Warlord's Mark,Anomalous,100
+224,Warlord's Mark,Divergent,100
+225,Punishment,Superior,50
+226,Punishment,Anomalous,100
+227,Punishment,Divergent,100
+228,Enfeeble,Superior,50
+229,Enfeeble,Anomalous,100
+230,Enfeeble,Divergent,100
+231,Assassin's Mark,Superior,50
+232,Assassin's Mark,Anomalous,100
+233,Assassin's Mark,Divergent,100
+234,Sniper's Mark,Superior,50
+235,Sniper's Mark,Anomalous,100
+236,Sniper's Mark,Divergent,100
+237,Despair,Superior,50
+238,Despair,Anomalous,100
+239,Despair,Divergent,100
+240,Lightning Warp,Superior,50
+241,Lightning Warp,Anomalous,100
+242,Lightning Warp,Divergent,100
+243,Lightning Warp,Phantasmal,100
+244,Vaal Lightning Warp,Superior,50
+245,Summon Skeletons,Superior,50
+246,Summon Skeletons,Anomalous,50
+247,Summon Skeletons,Divergent,50
+248,Summon Skeletons,Phantasmal,50
+249,Vaal Summon Skeletons,Superior,50
+250,Heavy Strike,Superior,50
+251,Heavy Strike,Anomalous,50
+252,Heavy Strike,Divergent,10
+253,Dominating Blow,Superior,50
+254,Dominating Blow,Anomalous,100
+255,Dominating Blow,Divergent,50
+256,Dominating Blow,Phantasmal,10
+257,Rain of Arrows,Superior,50
+258,Rain of Arrows,Anomalous,50
+259,Rain of Arrows,Divergent,20
+260,Rain of Arrows,Phantasmal,100
+261,Vaal Rain of Arrows,Superior,50
+262,Concentrated Effect Support,Superior,50
+263,Concentrated Effect Support,Anomalous,10
+264,Concentrated Effect Support,Divergent,50
+265,Minion Damage Support,Superior,50
+266,Minion Damage Support,Anomalous,100
+267,Minion Damage Support,Divergent,20
+268,Increased Duration Support,Superior,50
+269,Increased Duration Support,Anomalous,20
+270,Increased Duration Support,Divergent,50
+271,Cold to Fire Support,Superior,50
+272,Cold to Fire Support,Anomalous,100
+273,Cold to Fire Support,Divergent,10
+274,Combustion Support,Superior,50
+275,Combustion Support,Anomalous,100
+276,Combustion Support,Divergent,50
+277,Minion Speed Support,Superior,50
+278,Minion Speed Support,Anomalous,100
+279,Minion Speed Support,Divergent,20
+280,Minion Life Support,Superior,50
+281,Minion Life Support,Anomalous,20
+282,Minion Life Support,Divergent,100
+283,Elemental Damage with Attacks Support,Superior,50
+284,Elemental Damage with Attacks Support,Anomalous,100
+285,Elemental Damage with Attacks Support,Divergent,10
+286,Bloodlust Support,Superior,50
+287,Bloodlust Support,Anomalous,20
+288,Bloodlust Support,Divergent,5
+289,Life Gain on Hit Support,Superior,50
+290,Life Gain on Hit Support,Anomalous,100
+291,Life Gain on Hit Support,Divergent,10
+292,Firestorm,Superior,100
+293,Firestorm,Anomalous,50
+294,Firestorm,Divergent,20
+295,Lightning Strike,Superior,50
+296,Lightning Strike,Anomalous,100
+297,Lightning Strike,Divergent,100
+298,Lightning Strike,Phantasmal,100
+299,Vaal Lightning Strike,Superior,50
+300,Tempest Shield,Superior,50
+301,Tempest Shield,Anomalous,100
+302,Tempest Shield,Divergent,10
+303,Molten Shell,Superior,50
+304,Molten Shell,Anomalous,50
+305,Molten Shell,Divergent,50
+306,Vaal Molten Shell,Superior,50
+307,Power Siphon,Superior,50
+308,Power Siphon,Anomalous,20
+309,Power Siphon,Divergent,20
+310,Vaal Power Siphon,Superior,50
+311,Puncture,Superior,50
+312,Puncture,Anomalous,20
+313,Puncture,Divergent,20
+314,Puncture,Phantasmal,50
+315,Lightning Arrow,Superior,50
+316,Lightning Arrow,Anomalous,100
+317,Lightning Arrow,Divergent,100
+318,Lightning Arrow,Phantasmal,10
+319,Haste,Superior,50
+320,Haste,Anomalous,100
+321,Haste,Divergent,100
+322,Haste,Phantasmal,10
+323,Vaal Haste,Superior,50
+324,Purity of Elements,Superior,50
+325,Purity of Elements,Anomalous,100
+326,Purity of Elements,Divergent,5
+327,Vitality,Superior,50
+328,Vitality,Anomalous,10
+329,Vitality,Divergent,100
+330,Discipline,Superior,50
+331,Discipline,Anomalous,100
+332,Discipline,Divergent,20
+333,Vaal Discipline,Superior,50
+334,Grace,Superior,50
+335,Grace,Anomalous,20
+336,Grace,Divergent,100
+337,Vaal Grace,Superior,50
+338,Determination,Superior,50
+339,Determination,Anomalous,100
+340,Determination,Divergent,10
+341,Anger,Superior,50
+342,Anger,Anomalous,100
+343,Anger,Divergent,5
+344,Hatred,Superior,50
+345,Hatred,Anomalous,100
+346,Hatred,Divergent,20
+347,Wrath,Superior,50
+348,Wrath,Anomalous,100
+349,Wrath,Divergent,1
+350,Burning Arrow,Superior,50
+351,Burning Arrow,Anomalous,100
+352,Burning Arrow,Divergent,100
+353,Vaal Burning Arrow,Superior,50
+354,Elemental Proliferation Support,Superior,50
+355,Elemental Proliferation Support,Anomalous,100
+356,Elemental Proliferation Support,Divergent,20
+357,Arrogance Support,Superior,100
+358,Arrogance Support,Anomalous,50
+359,Arrogance Support,Divergent,50
+360,Clarity,Superior,50
+361,Clarity,Anomalous,100
+362,Clarity,Divergent,100
+363,Vaal Clarity,Superior,50
+364,Culling Strike Support,Superior,50
+365,Culling Strike Support,Anomalous,100
+366,Culling Strike Support,Divergent,50
+367,Point Blank Support,Superior,50
+368,Point Blank Support,Anomalous,100
+369,Point Blank Support,Divergent,5
+370,Iron Grip Support,Superior,50
+371,Iron Grip Support,Anomalous,100
+372,Iron Grip Support,Divergent,100
+373,Iron Will Support,Superior,50
+374,Iron Will Support,Anomalous,100
+375,Iron Will Support,Divergent,100
+376,Damage on Full Life Support,Superior,50
+377,Damage on Full Life Support,Anomalous,20
+378,Damage on Full Life Support,Divergent,100
+379,Spell Totem Support,Superior,50
+380,Spell Totem Support,Anomalous,100
+381,Spell Totem Support,Divergent,100
+382,Blastchain Mine Support,Superior,50
+383,Blastchain Mine Support,Anomalous,50
+384,Blastchain Mine Support,Divergent,20
+385,Detonate Mines,Superior,1000
+386,Detonate Mines,Anomalous,1
+387,Shockwave Totem,Superior,50
+388,Shockwave Totem,Anomalous,100
+389,Shockwave Totem,Divergent,20
+390,Shockwave Totem,Phantasmal,100
+391,Rejuvenation Totem,Superior,50
+392,Rejuvenation Totem,Anomalous,100
+393,Rejuvenation Totem,Divergent,100
+394,Icicle Mine,Superior,50
+395,Icicle Mine,Anomalous,100
+396,Icicle Mine,Divergent,100
+397,Conversion Trap,Superior,50
+398,Conversion Trap,Anomalous,100
+399,Conversion Trap,Divergent,100
+400,Bear Trap,Superior,50
+401,Bear Trap,Anomalous,100
+402,Bear Trap,Divergent,100
+403,Bear Trap,Phantasmal,20
+404,Chance to Flee Support,Superior,10000
+405,Chance to Flee Support,Anomalous,1
+406,Fire Trap,Superior,50
+407,Fire Trap,Anomalous,100
+408,Fire Trap,Divergent,20
+409,Decoy Totem,Superior,50
+410,Decoy Totem,Anomalous,100
+411,Decoy Totem,Divergent,100
+412,Decoy Totem,Phantasmal,10
+413,Devouring Totem,Superior,50
+414,Devouring Totem,Anomalous,100
+415,Devouring Totem,Divergent,100
+416,Ethereal Knives,Superior,50
+417,Ethereal Knives,Anomalous,100
+418,Ethereal Knives,Divergent,20
+419,Blind Support,Superior,50
+420,Blind Support,Anomalous,100
+421,Blind Support,Divergent,50
+422,Ice Shot,Superior,50
+423,Ice Shot,Anomalous,100
+424,Ice Shot,Divergent,100
+425,Creeping Frost,Superior,50
+426,Creeping Frost,Anomalous,100
+427,Creeping Frost,Divergent,10
+428,Creeping Frost,Phantasmal,50
+429,Arc,Superior,50
+430,Arc,Anomalous,100
+431,Arc,Divergent,50
+432,Arc,Phantasmal,20
+433,Vaal Arc,Superior,50
+434,Old Arctic Armour,Superior,50
+435,Old Arctic Armour,Anomalous,100
+436,Old Arctic Armour,Divergent,10
+437,Arctic Armour,Superior,50
+438,Arctic Armour,Anomalous,100
+439,Arctic Armour,Divergent,10
+440,Vaal Arctic Armour,Superior,50
+441,Holy Flame Totem,Superior,50
+442,Holy Flame Totem,Anomalous,20
+443,Holy Flame Totem,Divergent,100
+444,Holy Flame Totem,Phantasmal,100
+445,Ballista Totem Support,Superior,50
+446,Ballista Totem Support,Anomalous,100
+447,Ballista Totem Support,Divergent,50
+448,Ballista Totem Support,Phantasmal,10
+449,Fire Penetration Support,Superior,50
+450,Fire Penetration Support,Anomalous,100
+451,Fire Penetration Support,Divergent,10
+452,Cold Penetration Support,Superior,50
+453,Cold Penetration Support,Anomalous,100
+454,Cold Penetration Support,Divergent,100
+455,Lightning Penetration Support,Superior,50
+456,Lightning Penetration Support,Anomalous,100
+457,Lightning Penetration Support,Divergent,100
+458,Elemental Penetration Support,Superior,50
+459,Elemental Penetration Support,Anomalous,100
+460,Chain Support,Superior,100
+461,Chain Support,Anomalous,50
+462,Chain Support,Divergent,50
+463,Fork Support,Superior,50
+464,Fork Support,Anomalous,100
+465,Fork Support,Divergent,10
+466,Flammability,Superior,50
+467,Flammability,Anomalous,100
+468,Flammability,Divergent,100
+469,Frostbite,Superior,50
+470,Frostbite,Anomalous,100
+471,Frostbite,Divergent,100
+472,Conductivity,Superior,50
+473,Conductivity,Anomalous,100
+474,Conductivity,Divergent,100
+475,Storm Burst,Superior,50
+476,Storm Burst,Anomalous,100
+477,Storm Burst,Divergent,20
+478,Incinerate,Superior,50
+479,Incinerate,Anomalous,100
+480,Incinerate,Divergent,20
+481,Cyclone,Superior,50
+482,Cyclone,Anomalous,100
+483,Cyclone,Divergent,100
+484,Cyclone,Phantasmal,100
+485,Vaal Cyclone,Superior,50
+486,Multistrike Support,Superior,50
+487,Multistrike Support,Anomalous,50
+488,Multistrike Support,Divergent,100
+489,Spell Echo Support,Superior,50
+490,Spell Echo Support,Anomalous,100
+491,Spell Echo Support,Divergent,20
+492,Melee Splash Support,Superior,50
+493,Melee Splash Support,Anomalous,100
+494,Melee Splash Support,Divergent,50
+495,Power Charge On Critical Support,Superior,50
+496,Power Charge On Critical Support,Anomalous,100
+497,Power Charge On Critical Support,Divergent,10
+498,Searing Bond,Superior,50
+499,Searing Bond,Anomalous,100
+500,Searing Bond,Divergent,100
+501,Searing Bond,Phantasmal,50
+502,Burning Damage Support,Superior,50
+503,Burning Damage Support,Anomalous,100
+504,Burning Damage Support,Divergent,100
+505,Elemental Army Support,Superior,50
+506,Elemental Army Support,Anomalous,100
+507,Elemental Army Support,Divergent,20
+508,Hextouch Support,Anomalous,100
+509,Reave,Superior,50
+510,Reave,Anomalous,20
+511,Reave,Divergent,100
+512,Reave,Phantasmal,10
+513,Vaal Reave,Superior,50
+514,Cast On Critical Strike Support,Superior,50
+515,Cast On Critical Strike Support,Anomalous,50
+516,Cast On Critical Strike Support,Divergent,100
+517,Cast on Melee Kill Support,Superior,50
+518,Cast on Melee Kill Support,Anomalous,100
+519,Multiple Traps Support,Superior,50
+520,Multiple Traps Support,Anomalous,20
+521,Multiple Traps Support,Divergent,50
+522,Empower Support,Superior,50
+523,Empower Support,Anomalous,5
+524,Lightning Trap,Superior,50
+525,Lightning Trap,Anomalous,100
+526,Lightning Trap,Divergent,10
+527,Vaal Lightning Trap,Superior,50
+528,Smoke Mine,Superior,50
+529,Smoke Mine,Anomalous,100
+530,Smoke Mine,Divergent,20
+531,Endurance Charge on Melee Stun Support,Superior,50
+532,Endurance Charge on Melee Stun Support,Anomalous,20
+533,Endurance Charge on Melee Stun Support,Divergent,100
+534,Animate Guardian,Superior,50
+535,Animate Guardian,Anomalous,100
+536,Animate Guardian,Divergent,100
+537,Spectral Shield Throw,Superior,50
+538,Spectral Shield Throw,Anomalous,100
+539,Spectral Shield Throw,Divergent,100
+540,Spectral Shield Throw,Phantasmal,20
+541,Spectral Throw,Superior,50
+542,Spectral Throw,Anomalous,100
+543,Spectral Throw,Divergent,20
+544,Vaal Spectral Throw,Superior,50
+545,Slower Projectiles Support,Superior,50
+546,Slower Projectiles Support,Anomalous,100
+547,Slower Projectiles Support,Divergent,20
+548,Less Duration Support,Superior,50
+549,Less Duration Support,Anomalous,100
+550,Less Duration Support,Divergent,20
+551,Cast on Death Support,Superior,50
+552,Cast on Death Support,Anomalous,100
+553,Cast on Death Support,Divergent,100
+554,Cast when Damage Taken Support,Superior,50
+555,Cast when Damage Taken Support,Anomalous,100
+556,Cast when Damage Taken Support,Divergent,20
+557,Cast when Stunned Support,Superior,50
+558,Cast when Stunned Support,Anomalous,100
+559,Cast when Stunned Support,Divergent,100
+560,Animate Weapon,Superior,50
+561,Animate Weapon,Anomalous,100
+562,Animate Weapon,Divergent,50
+563,Animate Weapon,Phantasmal,20
+564,Enhance Support,Superior,50
+565,Enhance Support,Anomalous,5
+566,Purity of Fire,Superior,50
+567,Purity of Fire,Anomalous,100
+568,Purity of Fire,Divergent,10
+569,Vaal Impurity of Fire,Superior,50
+570,Purity of Ice,Superior,50
+571,Purity of Ice,Anomalous,100
+572,Purity of Ice,Divergent,10
+573,Vaal Impurity of Ice,Superior,50
+574,Purity of Lightning,Superior,50
+575,Purity of Lightning,Anomalous,100
+576,Purity of Lightning,Divergent,10
+577,Vaal Impurity of Lightning,Superior,50
+578,Storm Call,Superior,50
+579,Storm Call,Anomalous,100
+580,Storm Call,Divergent,100
+581,Storm Call,Phantasmal,20
+582,Vaal Storm Call,Superior,50
+583,Flameblast,Superior,50
+584,Flameblast,Anomalous,10
+585,Flameblast,Divergent,20
+586,Flameblast,Phantasmal,50
+587,Vaal Flameblast,Superior,50
+588,Barrage,Superior,50
+589,Barrage,Anomalous,100
+590,Barrage,Divergent,100
+591,Barrage,Phantasmal,20
+592,Ball Lightning,Superior,50
+593,Ball Lightning,Anomalous,100
+594,Ball Lightning,Divergent,20
+595,Vicious Projectiles Support,Superior,50
+596,Vicious Projectiles Support,Anomalous,100
+597,Vicious Projectiles Support,Divergent,100
+598,Summon Raging Spirit,Superior,50
+599,Summon Raging Spirit,Anomalous,100
+600,Summon Raging Spirit,Divergent,50
+601,Summon Raging Spirit,Phantasmal,20
+602,Flame Surge,Superior,50
+603,Flame Surge,Anomalous,10
+604,Flame Surge,Divergent,100
+605,Enlighten Support,Superior,50
+606,Enlighten Support,Anomalous,5
+607,Desecrate,Superior,50
+608,Desecrate,Anomalous,100
+609,Desecrate,Divergent,100
+610,Desecrate,Phantasmal,10
+611,Flesh Offering,Superior,50
+612,Flesh Offering,Anomalous,20
+613,Flesh Offering,Divergent,100
+614,Bone Offering,Superior,50
+615,Bone Offering,Anomalous,20
+616,Bone Offering,Divergent,5
+617,Spirit Offering,Superior,50
+618,Spirit Offering,Anomalous,100
+619,Spirit Offering,Divergent,100
+620,Glacial Cascade,Superior,50
+621,Glacial Cascade,Anomalous,100
+622,Glacial Cascade,Divergent,20
+623,Block Chance Reduction Support,Superior,50
+624,Block Chance Reduction Support,Anomalous,20
+625,Molten Strike,Superior,50
+626,Molten Strike,Anomalous,100
+627,Molten Strike,Divergent,20
+628,Molten Strike,Phantasmal,100
+629,Convocation,Superior,50
+630,Convocation,Anomalous,100
+631,Convocation,Divergent,5
+632,Pyroclast Mine,Superior,50
+633,Pyroclast Mine,Anomalous,100
+634,Pyroclast Mine,Divergent,100
+635,Pyroclast Mine,Phantasmal,100
+636,Tornado Shot,Superior,50
+637,Tornado Shot,Anomalous,20
+638,Tornado Shot,Divergent,100
+639,Generosity Support,Superior,50
+640,Generosity Support,Anomalous,10
+641,Generosity Support,Divergent,50
+642,Herald of Ash,Superior,50
+643,Herald of Ash,Anomalous,100
+644,Herald of Ash,Divergent,100
+645,Herald of Ice,Superior,50
+646,Herald of Ice,Anomalous,100
+647,Herald of Ice,Divergent,100
+648,Herald of Thunder,Superior,50
+649,Herald of Thunder,Anomalous,100
+650,Herald of Thunder,Divergent,20
+651,Herald of Agony,Superior,50
+652,Herald of Agony,Anomalous,50
+653,Herald of Agony,Divergent,100
+654,Herald of Purity,Superior,50
+655,Herald of Purity,Anomalous,100
+656,Herald of Purity,Divergent,50
+657,Poacher's Mark,Superior,50
+658,Poacher's Mark,Anomalous,100
+659,Poacher's Mark,Divergent,100
+660,Lightning Tendrils,Superior,50
+661,Lightning Tendrils,Anomalous,100
+662,Lightning Tendrils,Divergent,100
+663,Lightning Tendrils,Phantasmal,50
+664,Old Lightning Tendrils,Superior,50
+665,Old Lightning Tendrils,Anomalous,100
+666,Old Lightning Tendrils,Divergent,100
+667,Old Lightning Tendrils,Phantasmal,50
+668,Kinetic Blast,Superior,50
+669,Kinetic Blast,Anomalous,10
+670,Kinetic Blast,Divergent,100
+671,Blink Arrow,Superior,50
+672,Blink Arrow,Anomalous,100
+673,Blink Arrow,Divergent,100
+674,Blink Arrow,Phantasmal,20
+675,Mirror Arrow,Superior,50
+676,Mirror Arrow,Anomalous,100
+677,Mirror Arrow,Divergent,100
+678,Mirror Arrow,Phantasmal,20
+679,Riposte,Superior,50
+680,Riposte,Anomalous,50
+681,Riposte,Divergent,20
+682,Reckoning,Superior,50
+683,Reckoning,Anomalous,20
+684,Reckoning,Divergent,50
+685,Reckoning,Phantasmal,100
+686,Static Strike,Superior,50
+687,Static Strike,Anomalous,100
+688,Static Strike,Divergent,5
+689,Static Strike,Phantasmal,50
+690,Physical to Lightning Support,Superior,50
+691,Physical to Lightning Support,Anomalous,100
+692,Physical to Lightning Support,Divergent,20
+693,Vengeance,Superior,50
+694,Vengeance,Anomalous,50
+695,Vengeance,Divergent,100
+696,Vengeance,Phantasmal,20
+697,Summon Chaos Golem,Superior,50
+698,Summon Chaos Golem,Anomalous,100
+699,Summon Chaos Golem,Divergent,100
+700,Summon Ice Golem,Superior,50
+701,Summon Ice Golem,Anomalous,100
+702,Summon Ice Golem,Divergent,100
+703,Summon Flame Golem,Superior,50
+704,Summon Flame Golem,Anomalous,100
+705,Summon Flame Golem,Divergent,100
+706,Summon Lightning Golem,Superior,50
+707,Summon Lightning Golem,Anomalous,100
+708,Summon Lightning Golem,Divergent,100
+709,Blasphemy Support,Superior,50
+710,Blasphemy Support,Anomalous,100
+711,Blasphemy Support,Divergent,10
+712,Ice Crash,Superior,50
+713,Ice Crash,Anomalous,100
+714,Ice Crash,Divergent,100
+715,Ice Crash,Phantasmal,50
+716,Rallying Cry,Superior,50
+717,Rallying Cry,Anomalous,100
+718,Rallying Cry,Divergent,10
+719,Rallying Cry,Phantasmal,50
+720,Infernal Cry,Superior,50
+721,Infernal Cry,Anomalous,100
+722,Infernal Cry,Divergent,50
+723,Flame Dash,Superior,50
+724,Flame Dash,Anomalous,100
+725,Flame Dash,Divergent,50
+726,Vigilant Strike,Superior,50
+727,Vigilant Strike,Anomalous,100
+728,Vigilant Strike,Divergent,50
+729,Vigilant Strike,Phantasmal,100
+730,Fortify Support,Superior,100
+731,Fortify Support,Anomalous,50
+732,Fortify Support,Divergent,50
+733,Frost Blades,Superior,50
+734,Frost Blades,Anomalous,20
+735,Frost Blades,Divergent,100
+736,Ice Bite Support,Superior,50
+737,Ice Bite Support,Anomalous,100
+738,Ice Bite Support,Divergent,100
+739,Hypothermia Support,Superior,50
+740,Hypothermia Support,Anomalous,100
+741,Hypothermia Support,Divergent,100
+742,Innervate Support,Superior,50
+743,Innervate Support,Anomalous,100
+744,Innervate Support,Divergent,10
+745,Rolling Magma,Superior,50
+746,Rolling Magma,Anomalous,100
+747,Rolling Magma,Divergent,50
+748,Rolling Magma,Phantasmal,20
+749,Trap and Mine Damage Support,Superior,50
+750,Trap and Mine Damage Support,Anomalous,100
+751,Trap and Mine Damage Support,Divergent,10
+752,Wild Strike,Superior,50
+753,Wild Strike,Anomalous,50
+754,Wild Strike,Divergent,50
+755,Wild Strike,Phantasmal,50
+756,Ice Trap,Superior,50
+757,Ice Trap,Anomalous,100
+758,Ice Trap,Divergent,100
+759,Blast Rain,Superior,50
+760,Blast Rain,Anomalous,100
+761,Blast Rain,Divergent,100
+762,Blast Rain,Phantasmal,100
+763,Galvanic Arrow,Superior,50
+764,Galvanic Arrow,Anomalous,100
+765,Galvanic Arrow,Divergent,20
+766,Bladefall,Superior,50
+767,Bladefall,Anomalous,100
+768,Bladefall,Divergent,100
+769,Blade Vortex,Superior,50
+770,Blade Vortex,Anomalous,10
+771,Blade Vortex,Divergent,100
+772,Blade Vortex,Phantasmal,100
+773,Vaal Blade Vortex,Superior,50
+774,Frost Bomb,Superior,50
+775,Frost Bomb,Anomalous,100
+776,Frost Bomb,Divergent,100
+777,Frost Bomb,Phantasmal,50
+778,Siege Ballista,Superior,50
+779,Siege Ballista,Anomalous,100
+780,Siege Ballista,Divergent,100
+781,Siege Ballista,Phantasmal,100
+782,Orb of Storms,Superior,50
+783,Orb of Storms,Anomalous,50
+784,Orb of Storms,Divergent,100
+785,Summon Stone Golem,Superior,50
+786,Summon Stone Golem,Anomalous,100
+787,Summon Stone Golem,Divergent,100
+788,Earthquake,Superior,50
+789,Earthquake,Anomalous,100
+790,Earthquake,Divergent,100
+791,Earthquake,Phantasmal,5
+792,Critical Strike Affliction Support,Superior,50
+793,Critical Strike Affliction Support,Anomalous,100
+794,Critical Strike Affliction Support,Divergent,100
+795,Contagion,Superior,50
+796,Contagion,Anomalous,100
+797,Contagion,Divergent,20
+798,Wither,Superior,50
+799,Wither,Anomalous,100
+800,Wither,Divergent,20
+801,Blight,Superior,50
+802,Blight,Anomalous,100
+803,Blight,Divergent,100
+804,Essence Drain,Superior,50
+805,Essence Drain,Anomalous,100
+806,Essence Drain,Divergent,20
+807,Void Manipulation Support,Superior,50
+808,Void Manipulation Support,Anomalous,100
+809,Void Manipulation Support,Divergent,10
+810,Controlled Destruction Support,Superior,50
+811,Controlled Destruction Support,Anomalous,100
+812,Controlled Destruction Support,Divergent,100
+813,Swift Affliction Support,Superior,50
+814,Swift Affliction Support,Anomalous,100
+815,Swift Affliction Support,Divergent,10
+816,Cluster Traps Support,Superior,50
+817,Cluster Traps Support,Anomalous,100
+818,Cluster Traps Support,Divergent,100
+819,Ancestral Protector,Superior,50
+820,Ancestral Protector,Anomalous,100
+821,Ancestral Protector,Divergent,20
+822,Ancestral Protector,Phantasmal,100
+823,Ancestral Warchief,Superior,50
+824,Ancestral Warchief,Anomalous,100
+825,Ancestral Warchief,Divergent,20
+826,Ancestral Warchief,Phantasmal,100
+827,Sunder,Superior,50
+828,Sunder,Anomalous,100
+829,Sunder,Divergent,100
+830,Sunder,Phantasmal,50
+831,Frostbolt,Superior,50
+832,Frostbolt,Anomalous,10
+833,Frostbolt,Divergent,100
+834,Frostbolt,Phantasmal,20
+835,Vortex,Superior,50
+836,Vortex,Anomalous,100
+837,Vortex,Divergent,50
+838,Vortex,Phantasmal,100
+839,Elemental Focus Support,Superior,50
+840,Elemental Focus Support,Anomalous,100
+841,Elemental Focus Support,Divergent,20
+842,Minefield Support,Superior,50
+843,Minefield Support,Anomalous,20
+844,Minefield Support,Divergent,5
+845,Advanced Traps Support,Superior,50
+846,Advanced Traps Support,Anomalous,100
+847,Advanced Traps Support,Divergent,100
+848,Dark Pact,Superior,50
+849,Dark Pact,Anomalous,100
+850,Dark Pact,Divergent,50
+851,Scorching Ray,Superior,50
+852,Scorching Ray,Anomalous,100
+853,Scorching Ray,Divergent,50
+854,Cast while Channelling Support,Superior,50
+855,Cast while Channelling Support,Anomalous,100
+856,Ignite Proliferation Support,Superior,50
+857,Ignite Proliferation Support,Anomalous,100
+858,Ignite Proliferation Support,Divergent,100
+859,Chance to Bleed Support,Superior,50
+860,Chance to Bleed Support,Anomalous,100
+861,Chance to Bleed Support,Divergent,20
+862,Chance to Poison Support,Superior,50
+863,Chance to Poison Support,Anomalous,20
+864,Chance to Poison Support,Divergent,100
+865,Deadly Ailments Support,Superior,50
+866,Deadly Ailments Support,Anomalous,100
+867,Deadly Ailments Support,Divergent,20
+868,Decay Support,Superior,50
+869,Decay Support,Anomalous,100
+870,Decay Support,Divergent,20
+871,Efficacy Support,Superior,50
+872,Efficacy Support,Anomalous,100
+873,Efficacy Support,Divergent,100
+874,Vile Toxins Support,Superior,50
+875,Vile Toxins Support,Anomalous,100
+876,Vile Toxins Support,Divergent,100
+877,Maim Support,Superior,50
+878,Maim Support,Anomalous,100
+879,Maim Support,Divergent,100
+880,Immolate Support,Superior,50
+881,Immolate Support,Anomalous,100
+882,Immolate Support,Divergent,100
+883,Unbound Ailments Support,Superior,50
+884,Unbound Ailments Support,Anomalous,100
+885,Unbound Ailments Support,Divergent,100
+886,Brutality Support,Superior,50
+887,Brutality Support,Anomalous,100
+888,Brutality Support,Divergent,100
+889,Ruthless Support,Superior,50
+890,Ruthless Support,Anomalous,100
+891,Ruthless Support,Divergent,100
+892,Momentum Support,Superior,100
+893,Momentum Support,Anomalous,50
+894,Momentum Support,Divergent,50
+895,Arcane Surge Support,Superior,50
+896,Arcane Surge Support,Anomalous,100
+897,Arcane Surge Support,Divergent,100
+898,Cremation,Superior,50
+899,Cremation,Anomalous,100
+900,Cremation,Divergent,50
+901,Cremation,Phantasmal,10
+902,Bodyswap,Superior,50
+903,Bodyswap,Anomalous,100
+904,Bodyswap,Divergent,100
+905,Bodyswap,Phantasmal,20
+906,Tectonic Slam,Superior,50
+907,Tectonic Slam,Anomalous,100
+908,Tectonic Slam,Divergent,20
+909,Tectonic Slam,Phantasmal,100
+910,Infused Channelling Support,Superior,50
+911,Infused Channelling Support,Anomalous,100
+912,Infused Channelling Support,Divergent,20
+913,Volley Support,Superior,50
+914,Volley Support,Anomalous,100
+915,Volley Support,Divergent,100
+916,Spell Cascade Support,Superior,50
+917,Spell Cascade Support,Anomalous,100
+918,Spell Cascade Support,Divergent,20
+919,Ancestral Call Support,Superior,50
+920,Ancestral Call Support,Anomalous,100
+921,Ancestral Call Support,Divergent,20
+922,Summon Phantasm Support,Superior,50
+923,Summon Phantasm Support,Anomalous,100
+924,Summon Phantasm Support,Divergent,100
+925,Mirage Archer Support,Superior,50
+926,Mirage Archer Support,Anomalous,10
+927,Mirage Archer Support,Divergent,50
+928,Vulnerability,Superior,50
+929,Vulnerability,Anomalous,100
+930,Vulnerability,Divergent,100
+931,Explosive Trap,Superior,50
+932,Explosive Trap,Anomalous,100
+933,Explosive Trap,Divergent,20
+934,Siphoning Trap,Superior,50
+935,Siphoning Trap,Anomalous,100
+936,Siphoning Trap,Divergent,100
+937,Siphoning Trap,Phantasmal,10
+938,Flamethrower Trap,Superior,50
+939,Flamethrower Trap,Anomalous,100
+940,Flamethrower Trap,Divergent,100
+941,Lightning Spire Trap,Superior,50
+942,Lightning Spire Trap,Anomalous,100
+943,Lightning Spire Trap,Divergent,100
+944,Seismic Trap,Superior,50
+945,Seismic Trap,Anomalous,100
+946,Seismic Trap,Divergent,100
+947,Seismic Trap,Phantasmal,100
+948,Vaal Earthquake,Superior,50
+949,Vaal Blight,Superior,50
+950,Charged Traps Support,Superior,50
+951,Charged Traps Support,Anomalous,100
+952,Charged Traps Support,Divergent,100
+953,Charged Mines Support,Superior,50
+954,Charged Mines Support,Anomalous,100
+955,Charged Mines Support,Divergent,20
+956,Vaal Ancestral Warchief,Superior,50
+957,Consecrated Path,Superior,50
+958,Consecrated Path,Anomalous,100
+959,Consecrated Path,Divergent,50
+960,Consecrated Path,Phantasmal,50
+961,Smite,Superior,50
+962,Smite,Anomalous,100
+963,Smite,Divergent,100
+964,Smite,Phantasmal,20
+965,Scourge Arrow,Superior,50
+966,Scourge Arrow,Anomalous,20
+967,Scourge Arrow,Divergent,100
+968,Scourge Arrow,Phantasmal,100
+969,Toxic Rain,Superior,50
+970,Toxic Rain,Anomalous,100
+971,Toxic Rain,Divergent,100
+972,Toxic Rain,Phantasmal,20
+973,Summon Holy Relic,Superior,50
+974,Summon Holy Relic,Anomalous,100
+975,Summon Holy Relic,Divergent,50
+976,Withering Touch Support,Superior,50
+977,Withering Touch Support,Anomalous,100
+978,Withering Touch Support,Divergent,50
+979,Bonechill Support,Superior,50
+980,Bonechill Support,Anomalous,100
+981,Bonechill Support,Divergent,100
+982,Winter Orb,Superior,50
+983,Winter Orb,Anomalous,100
+984,Winter Orb,Divergent,100
+985,Winter Orb,Phantasmal,100
+986,Lancing Steel,Superior,50
+987,Lancing Steel,Anomalous,100
+988,Lancing Steel,Divergent,100
+989,Lancing Steel,Phantasmal,100
+990,Storm Brand,Superior,50
+991,Storm Brand,Anomalous,100
+992,Storm Brand,Divergent,100
+993,Storm Brand,Phantasmal,100
+994,War Banner,Superior,50
+995,War Banner,Anomalous,10
+996,War Banner,Divergent,100
+997,Dread Banner,Superior,50
+998,Dread Banner,Anomalous,10
+999,Dread Banner,Divergent,100
+1000,Shattering Steel,Superior,50
+1001,Shattering Steel,Anomalous,100
+1002,Shattering Steel,Divergent,10
+1003,Shattering Steel,Phantasmal,100
+1004,Multiple Totems Support,Superior,50
+1005,Multiple Totems Support,Anomalous,100
+1006,Multiple Totems Support,Divergent,100
+1007,Armageddon Brand,Superior,50
+1008,Armageddon Brand,Anomalous,100
+1009,Armageddon Brand,Divergent,20
+1010,Brand Recall,Superior,50
+1011,Brand Recall,Anomalous,20
+1012,Purifying Flame,Superior,50
+1013,Purifying Flame,Anomalous,20
+1014,Purifying Flame,Divergent,100
+1015,Purifying Flame,Phantasmal,20
+1016,Soulrend,Superior,50
+1017,Soulrend,Anomalous,100
+1018,Soulrend,Divergent,100
+1019,Soulrend,Phantasmal,20
+1020,Bane,Superior,50
+1021,Bane,Anomalous,100
+1022,Bane,Divergent,5
+1023,Energy Leech Support,Superior,50
+1024,Energy Leech Support,Anomalous,100
+1025,Energy Leech Support,Divergent,20
+1026,Wave of Conviction,Superior,50
+1027,Wave of Conviction,Anomalous,100
+1028,Wave of Conviction,Divergent,100
+1029,Wave of Conviction,Phantasmal,20
+1030,Zealotry,Superior,50
+1031,Zealotry,Anomalous,100
+1032,Zealotry,Divergent,5
+1033,Divine Ire,Superior,50
+1034,Divine Ire,Anomalous,100
+1035,Divine Ire,Divergent,20
+1036,Malevolence,Superior,50
+1037,Malevolence,Anomalous,5
+1038,Malevolence,Divergent,100
+1039,Intensify Support,Superior,50
+1040,Intensify Support,Anomalous,100
+1041,Intensify Support,Divergent,50
+1042,Intensify Support,Phantasmal,50
+1043,Unleash Support,Superior,50
+1044,Unleash Support,Anomalous,50
+1045,Unleash Support,Divergent,10
+1046,Steelskin,Superior,50
+1047,Steelskin,Anomalous,100
+1048,Steelskin,Divergent,100
+1049,Dash,Superior,50
+1050,Dash,Anomalous,100
+1051,Dash,Divergent,20
+1052,Bladestorm,Superior,50
+1053,Bladestorm,Anomalous,100
+1054,Bladestorm,Divergent,100
+1055,Bladestorm,Phantasmal,20
+1056,Blood and Sand,Superior,50
+1057,Blood and Sand,Anomalous,100
+1058,Blood and Sand,Divergent,100
+1059,Berserk,Superior,50
+1060,Berserk,Anomalous,100
+1061,Berserk,Divergent,20
+1062,Perforate,Superior,50
+1063,Perforate,Anomalous,100
+1064,Perforate,Divergent,100
+1065,Perforate,Phantasmal,10
+1066,Chain Hook,Superior,50
+1067,Chain Hook,Anomalous,100
+1068,Chain Hook,Divergent,50
+1069,Close Combat Support,Superior,50
+1070,Close Combat Support,Anomalous,100
+1071,Close Combat Support,Divergent,100
+1072,Shockwave Support,Superior,50
+1073,Shockwave Support,Anomalous,100
+1074,Frostblink,Superior,50
+1075,Frostblink,Anomalous,100
+1076,Frostblink,Divergent,100
+1077,Precision,Superior,50
+1078,Precision,Anomalous,10
+1079,Precision,Divergent,100
+1080,Flesh and Stone,Superior,50
+1081,Flesh and Stone,Anomalous,100
+1082,Flesh and Stone,Divergent,100
+1083,Impale Support,Superior,50
+1084,Impale Support,Anomalous,100
+1085,Impale Support,Divergent,20
+1086,Pride,Superior,50
+1087,Pride,Anomalous,50
+1088,Pride,Divergent,100
+1089,Pulverise Support,Superior,50
+1090,Pulverise Support,Anomalous,100
+1091,Pulverise Support,Divergent,20
+1092,Rage Support,Superior,50
+1093,Rage Support,Anomalous,100
+1094,Rage Support,Divergent,5
+1095,Cobra Lash,Superior,50
+1096,Cobra Lash,Anomalous,100
+1097,Cobra Lash,Divergent,100
+1098,Summon Carrion Golem,Superior,50
+1099,Summon Carrion Golem,Anomalous,100
+1100,Summon Carrion Golem,Divergent,100
+1101,Withering Step,Superior,50
+1102,Withering Step,Anomalous,100
+1103,Withering Step,Divergent,20
+1104,Plague Bearer,Superior,50
+1105,Plague Bearer,Anomalous,100
+1106,Plague Bearer,Divergent,10
+1107,Feeding Frenzy Support,Superior,50
+1108,Feeding Frenzy Support,Anomalous,10
+1109,Feeding Frenzy Support,Divergent,100
+1110,Predator Support,Superior,50
+1111,Predator Support,Divergent,100
+1112,Nightblade Support,Superior,50
+1113,Nightblade Support,Anomalous,20
+1114,Nightblade Support,Divergent,100
+1115,Meat Shield Support,Superior,50
+1116,Meat Shield Support,Anomalous,100
+1117,Meat Shield Support,Divergent,20
+1118,Stormblast Mine,Superior,50
+1119,Stormblast Mine,Anomalous,100
+1120,Stormblast Mine,Divergent,100
+1121,Stormblast Mine,Phantasmal,100
+1122,Summon Skitterbots,Superior,50
+1123,Summon Skitterbots,Anomalous,100
+1124,Summon Skitterbots,Divergent,10
+1125,High-Impact Mine Support,Superior,50
+1126,High-Impact Mine Support,Anomalous,50
+1127,High-Impact Mine Support,Divergent,100
+1128,Infernal Legion Support,Superior,50
+1129,Infernal Legion Support,Anomalous,100
+1130,Infernal Legion Support,Divergent,100
+1131,Pestilent Strike,Superior,50
+1132,Pestilent Strike,Anomalous,100
+1133,Pestilent Strike,Divergent,100
+1134,Pestilent Strike,Phantasmal,100
+1135,Venom Gyre,Superior,50
+1136,Venom Gyre,Anomalous,100
+1137,Venom Gyre,Divergent,10
+1138,Swift Assembly Support,Superior,100
+1139,Swift Assembly Support,Anomalous,50
+1140,Swift Assembly Support,Divergent,20
+1141,Shrapnel Ballista,Superior,50
+1142,Shrapnel Ballista,Anomalous,5
+1143,Shrapnel Ballista,Divergent,20
+1144,Shrapnel Ballista,Phantasmal,100
+1145,Arrow Nova Support,Superior,50
+1146,Arrow Nova Support,Anomalous,100
+1147,Arrow Nova Support,Divergent,100
+1148,Barrage Support,Superior,50
+1149,Barrage Support,Anomalous,10
+1150,Barrage Support,Divergent,20
+1151,Ensnaring Arrow,Superior,50
+1152,Ensnaring Arrow,Anomalous,100
+1153,Ensnaring Arrow,Divergent,20
+1154,Artillery Ballista,Superior,50
+1155,Artillery Ballista,Anomalous,100
+1156,Artillery Ballista,Divergent,10
+1157,Greater Volley Support,Superior,50
+1158,Greater Volley Support,Anomalous,100
+1159,Greater Volley Support,Divergent,100
+1160,Awakened Added Fire Damage Support,Superior,50
+1161,Awakened Ancestral Call Support,Superior,50
+1162,Awakened Brutality Support,Superior,50
+1163,Awakened Burning Damage Support,Superior,50
+1164,Awakened Elemental Damage with Attacks Support,Superior,50
+1165,Awakened Fire Penetration Support,Superior,50
+1166,Awakened Generosity Support,Superior,50
+1167,Awakened Melee Physical Damage Support,Superior,50
+1168,Awakened Melee Splash Support,Superior,50
+1169,Awakened Multistrike Support,Superior,50
+1170,Awakened Added Cold Damage Support,Superior,50
+1171,Awakened Arrow Nova Support,Superior,50
+1172,Awakened Cast On Critical Strike Support,Superior,50
+1173,Awakened Chain Support,Superior,50
+1174,Awakened Cold Penetration Support,Superior,50
+1175,Awakened Deadly Ailments Support,Superior,50
+1176,Awakened Fork Support,Superior,50
+1177,Awakened Greater Multiple Projectiles Support,Superior,50
+1178,Awakened Swift Affliction Support,Superior,50
+1179,Awakened Void Manipulation Support,Superior,50
+1180,Awakened Vicious Projectiles Support,Superior,50
+1181,Awakened Added Chaos Damage Support,Superior,50
+1182,Awakened Added Lightning Damage Support,Superior,50
+1183,Awakened Blasphemy Support,Superior,50
+1184,Awakened Cast While Channelling Support,Superior,50
+1185,Awakened Controlled Destruction Support,Superior,50
+1186,Awakened Elemental Focus Support,Superior,50
+1187,Awakened Increased Area of Effect Support,Superior,50
+1188,Awakened Lightning Penetration Support,Superior,50
+1189,Awakened Minion Damage Support,Superior,50
+1190,Awakened Spell Cascade Support,Superior,50
+1191,Awakened Spell Echo Support,Superior,50
+1192,Awakened Unbound Ailments Support,Superior,50
+1193,Awakened Unleash Support,Superior,50
+1194,Awakened Empower Support,Superior,50
+1195,Awakened Enlighten Support,Superior,50
+1196,Awakened Enhance Support,Superior,50
+1197,Arcane Cloak,Superior,50
+1198,Arcane Cloak,Anomalous,100
+1199,Arcane Cloak,Divergent,20
+1200,Stormbind,Superior,50
+1201,Stormbind,Anomalous,100
+1202,Stormbind,Divergent,100
+1203,Stormbind,Phantasmal,100
+1204,Kinetic Bolt,Superior,50
+1205,Kinetic Bolt,Anomalous,5
+1206,Kinetic Bolt,Divergent,50
+1207,Blade Blast,Superior,50
+1208,Blade Blast,Anomalous,20
+1209,Blade Blast,Divergent,10
+1210,Blade Blast,Phantasmal,100
+1211,Archmage Support,Superior,50
+1212,Archmage Support,Anomalous,20
+1213,Archmage Support,Divergent,50
+1214,Second Wind Support,Superior,50
+1215,Second Wind Support,Anomalous,20
+1216,Second Wind Support,Divergent,10
+1217,Arcanist Brand,Superior,50
+1218,Intimidating Cry,Superior,50
+1219,Intimidating Cry,Anomalous,100
+1220,Intimidating Cry,Divergent,100
+1221,Intimidating Cry,Phantasmal,100
+1222,Seismic Cry,Superior,50
+1223,Seismic Cry,Anomalous,100
+1224,Seismic Cry,Divergent,20
+1225,Seismic Cry,Phantasmal,100
+1226,Ancestral Cry,Superior,50
+1227,Ancestral Cry,Anomalous,100
+1228,Ancestral Cry,Divergent,100
+1229,Penance Brand,Superior,50
+1230,Penance Brand,Anomalous,100
+1231,Penance Brand,Divergent,100
+1232,Wintertide Brand,Superior,50
+1233,Wintertide Brand,Anomalous,100
+1234,Wintertide Brand,Divergent,100
+1235,Earthshatter,Superior,50
+1236,Earthshatter,Anomalous,20
+1237,Earthshatter,Divergent,100
+1238,Earthshatter,Phantasmal,100
+1239,General's Cry,Superior,50
+1240,General's Cry,Anomalous,100
+1241,General's Cry,Divergent,50
+1242,Fist of War Support,Superior,50
+1243,Fist of War Support,Anomalous,100
+1244,Fist of War Support,Divergent,50
+1245,Swiftbrand Support,Superior,50
+1246,Swiftbrand Support,Anomalous,50
+1247,Swiftbrand Support,Divergent,100
+1248,Urgent Orders Support,Superior,50
+1249,Urgent Orders Support,Anomalous,100
+1250,Urgent Orders Support,Divergent,5
+1251,Blazing Salvo,Superior,50
+1252,Blazing Salvo,Anomalous,100
+1253,Blazing Salvo,Divergent,20
+1254,Void Sphere,Superior,50
+1255,Void Sphere,Anomalous,50
+1256,Void Sphere,Divergent,20
+1257,Void Sphere,Phantasmal,100
+1258,Crackling Lance,Superior,50
+1259,Crackling Lance,Anomalous,20
+1260,Crackling Lance,Divergent,100
+1261,Crackling Lance,Phantasmal,100
+1262,Frost Shield,Superior,50
+1263,Frost Shield,Anomalous,100
+1264,Frost Shield,Divergent,50
+1265,Frost Shield,Phantasmal,20
+1266,Splitting Steel,Superior,50
+1267,Splitting Steel,Anomalous,20
+1268,Splitting Steel,Divergent,100
+1269,Splitting Steel,Phantasmal,50
+1270,Sigil of Power,Superior,50
+1271,Sigil of Power,Anomalous,20
+1272,Sigil of Power,Divergent,100
+1273,Sigil of Power,Phantasmal,50
+1274,Flame Wall,Superior,50
+1275,Flame Wall,Anomalous,100
+1276,Flame Wall,Divergent,100
+1277,Flame Wall,Phantasmal,10
+1278,Impending Doom Support,Anomalous,100
+1279,Hexblast,Superior,50
+1280,Hexblast,Anomalous,100
+1281,Hexblast,Divergent,100
+1282,Hexblast,Phantasmal,10
+1283,Pinpoint Support,Superior,50
+1284,Pinpoint Support,Anomalous,100
+1285,Pinpoint Support,Divergent,100
+1286,Hydrosphere,Superior,50
+1287,Hydrosphere,Anomalous,100
+1288,Hydrosphere,Divergent,100
+1289,Trinity Support,Superior,100
+1290,Trinity Support,Anomalous,50
+1291,Trinity Support,Divergent,20
+1292,Exsanguinate,Superior,100
+1293,Exsanguinate,Anomalous,50
+1294,Exsanguinate,Divergent,50
+1295,Corrupting Fever,Superior,100
+1296,Corrupting Fever,Anomalous,50
+1297,Corrupting Fever,Divergent,50
+1298,Bloodthirst Support,Superior,100
+1299,Bloodthirst Support,Anomalous,50
+1300,Bloodthirst Support,Divergent,50
+1301,Reap,Superior,100
+1302,Reap,Anomalous,50
+1303,Reap,Divergent,50
+1304,Petrified Blood,Superior,100
+1305,Petrified Blood,Anomalous,50
+1306,Petrified Blood,Divergent,50
+1307,Cruelty Support,Superior,100
+1308,Cruelty Support,Anomalous,50
+1309,Cruelty Support,Divergent,50
+1310,Lifetap Support,Superior,100
+1311,Lifetap Support,Anomalous,50
+1312,Lifetap Support,Divergent,50
+1313,Defiance Banner,Superior,50
+1314,Defiance Banner,Anomalous,10
+1315,Defiance Banner,Divergent,100
+1316,Voltaxic Burst,Superior,100
+1317,Voltaxic Burst,Anomalous,50
+1318,Voltaxic Burst,Divergent,50
+1319,Rage Vortex,Superior,50
+1320,Rage Vortex,Anomalous,50
+1321,Rage Vortex,Divergent,50
+1322,Spectral Helix,Superior,100
+1323,Spectral Helix,Anomalous,50
+1324,Spectral Helix,Divergent,50
+1325,Battlemage's Cry,Superior,100
+1326,Battlemage's Cry,Anomalous,50
+1327,Battlemage's Cry,Divergent,50
+1328,Earthbreaker Support,Superior,100
+1329,Earthbreaker Support,Anomalous,100
+1330,Earthbreaker Support,Divergent,20
+1331,Absolution,Superior,100
+1332,Absolution,Anomalous,50
+1333,Absolution,Divergent,50
+1334,Forbidden Rite,Superior,100
+1335,Forbidden Rite,Anomalous,50
+1336,Forbidden Rite,Divergent,50
+1337,Ambush,Superior,50
+1338,Ambush,Anomalous,50
+1339,Ambush,Divergent,20
+1340,Manabond,Superior,100
+1341,Manabond,Anomalous,50
+1342,Manabond,Divergent,50
+1343,Blade Trap,Superior,100
+1344,Blade Trap,Anomalous,50
+1345,Blade Trap,Divergent,50
+1346,Storm Rain,Superior,50
+1347,Storm Rain,Anomalous,50
+1348,Storm Rain,Divergent,50
+1349,Shield Crush,Superior,50
+1350,Shield Crush,Anomalous,100
+1351,Shield Crush,Divergent,20
+1352,Focused Ballista Support,Superior,100
+1353,Focused Ballista Support,Anomalous,50
+1354,Focused Ballista Support,Divergent,50
+1355,Summon Reaper,Superior,50
+1356,Summon Reaper,Anomalous,50
+1357,Summon Reaper,Divergent,100
+1358,Behead Support,Superior,100
+1359,Behead Support,Anomalous,50
+1360,Behead Support,Divergent,50
+1361,Boneshatter,Superior,50
+1362,Boneshatter,Anomalous,50
+1363,Boneshatter,Divergent,10
+1364,Explosive Concoction,Superior,100
+1365,Explosive Concoction,Anomalous,50
+1366,Explosive Concoction,Divergent,50
+1367,Eye of Winter,Superior,100
+1368,Eye of Winter,Anomalous,50
+1369,Eye of Winter,Divergent,50
+1370,Poisonous Concoction,Superior,100
+1371,Poisonous Concoction,Anomalous,50
+1372,Poisonous Concoction,Divergent,50
+1373,Temporal Rift,Superior,100
+1374,Temporal Rift,Anomalous,50
+1375,Temporal Rift,Divergent,50
+1376,Tornado,Superior,100
+1377,Tornado,Anomalous,50
+1378,Tornado,Divergent,50
+1379,Energy Blade,Superior,100
+1380,Energy Blade,Anomalous,50
+1381,Energy Blade,Divergent,50
+1382,Soul Link,Superior,100
+1383,Soul Link,Anomalous,50
+1384,Soul Link,Divergent,50
+1385,Flame Link,Superior,100
+1386,Flame Link,Anomalous,50
+1387,Flame Link,Divergent,50
+1388,Vampiric Link,Superior,100
+1389,Vampiric Link,Anomalous,50
+1390,Vampiric Link,Divergent,50
+1391,Protective Link,Superior,100
+1392,Protective Link,Anomalous,50
+1393,Protective Link,Divergent,50
+1394,Intuitive Link,Superior,100
+1395,Intuitive Link,Anomalous,50
+1396,Destructive Link,Superior,100
+1397,Destructive Link,Anomalous,50
+1398,Destructive Link,Divergent,50
+1399,Divine Blessing Support,Superior,100
+1400,Divine Blessing Support,Anomalous,50
+1401,Divine Blessing Support,Divergent,50
+1402,Mark On Hit Support,Superior,100
+1403,Mark On Hit Support,Anomalous,50
+1404,Mark On Hit Support,Divergent,50
+1405,Eternal Blessing Support,Superior,100
+1406,Eternal Blessing Support,Anomalous,50
+1407,Eternal Blessing Support,Divergent,50
+1408,Overcharge Support,Superior,100
+1409,Overcharge Support,Anomalous,50
+1410,Overcharge Support,Divergent,50
+1411,Lightning Conduit,Superior,50
+1412,Lightning Conduit,Anomalous,50
+1413,Lightning Conduit,Divergent,10
+1414,Galvanic Field,Superior,50
+1415,Galvanic Field,Anomalous,50
+1416,Galvanic Field,Divergent,10
+1417,Galvanic Field,Phantasmal,20
+1418,Alchemist's Mark,Superior,50
+1419,Alchemist's Mark,Anomalous,50
+1420,Alchemist's Mark,Divergent,20
+1421,Volcanic Fissure,Superior,50
+1422,Volcanic Fissure,Anomalous,100
+1423,Vaal Volcanic Fissure,Superior,50
+1424,Frozen Legion,Anomalous,50
+1425,Frozen Legion,Divergent,50
+1426,Vaal Cleave,Superior,50
+1427,Vaal Caustic Arrow,Superior,50
+1428,Vaal Molten Strike,Superior,50
+1429,Cursed Ground Support,Superior,100
+1430,Cursed Ground Support,Anomalous,50
+1431,Cursed Ground Support,Divergent,50
+1432,Hex Bloom Support,Superior,100
+1433,Hex Bloom Support,Anomalous,50
+1434,Hex Bloom Support,Divergent,50
+1435,Vaal Venom Gyre,Superior,50
+1436,Vaal Smite,Superior,50
+1437,Vaal Blade Flurry,Superior,50
+1438,Vaal Reap,Superior,100
+1439,Vaal Animate Weapon,Superior,50
+1440,Vaal Lightning Arrow,Superior,50
+1441,Vaal Ice Shot,Superior,50
+1442,Vaal Firestorm,Superior,100
+1443,Vaal Rejuvenation Totem,Superior,50
+1444,Vaal Split Arrow,Superior,50
+1445,Manaforged Arrows Support,Superior,100
+1446,Manaforged Arrows Support,Anomalous,50
+1447,Manaforged Arrows Support,Divergent,10
+1448,Snipe,Superior,100
+1449,Quickstep,Superior,100
+1450,Vaal Fireball,Anomalous,100
+1451,Vaal Fireball,Divergent,40
+1452,Vaal Fireball,Phantasmal,10
+1453,Vaal Ice Nova,Anomalous,100
+1454,Vaal Ice Nova,Divergent,100
+1455,Vaal Ice Nova,Phantasmal,100
+1456,Vaal Ground Slam,Anomalous,100
+1457,Vaal Ground Slam,Divergent,50
+1458,Vaal Double Strike,Anomalous,100
+1459,Vaal Double Strike,Divergent,100
+1460,Vaal Immortal Call,Anomalous,100
+1461,Vaal Immortal Call,Divergent,10
+1462,Vaal Detonate Dead,Superior,50
+1463,Vaal Detonate Dead,Anomalous,10
+1464,Vaal Detonate Dead,Divergent,20
+1465,Vaal Cold Snap,Anomalous,100
+1466,Vaal Cold Snap,Divergent,100
+1467,Vaal Righteous Fire,Anomalous,100
+1468,Vaal Righteous Fire,Divergent,100
+1469,Vaal Breach,Superior,10000
+1470,Vaal Breach,Anomalous,1
+1471,Vaal Flicker Strike,Anomalous,100
+1472,Vaal Flicker Strike,Divergent,100
+1473,Vaal Spark,Anomalous,100
+1474,Vaal Spark,Divergent,100
+1475,Vaal Spark,Phantasmal,100
+1476,Vaal Glacial Hammer,Anomalous,100
+1477,Vaal Glacial Hammer,Divergent,100
+1478,Vaal Lightning Warp,Anomalous,100
+1479,Vaal Lightning Warp,Divergent,100
+1480,Vaal Lightning Warp,Phantasmal,100
+1481,Vaal Summon Skeletons,Anomalous,50
+1482,Vaal Summon Skeletons,Divergent,50
+1483,Vaal Summon Skeletons,Phantasmal,50
+1484,Vaal Rain of Arrows,Anomalous,50
+1485,Vaal Rain of Arrows,Divergent,20
+1486,Vaal Rain of Arrows,Phantasmal,100
+1487,Vaal Lightning Strike,Anomalous,100
+1488,Vaal Lightning Strike,Divergent,100
+1489,Vaal Lightning Strike,Phantasmal,100
+1490,Vaal Molten Shell,Anomalous,50
+1491,Vaal Molten Shell,Divergent,50
+1492,Vaal Power Siphon,Anomalous,20
+1493,Vaal Power Siphon,Divergent,20
+1494,Vaal Haste,Anomalous,100
+1495,Vaal Haste,Divergent,100
+1496,Vaal Haste,Phantasmal,10
+1497,Vaal Discipline,Anomalous,100
+1498,Vaal Discipline,Divergent,20
+1499,Vaal Grace,Anomalous,20
+1500,Vaal Grace,Divergent,100
+1501,Vaal Burning Arrow,Superior,50
+1502,Vaal Burning Arrow,Anomalous,100
+1503,Vaal Burning Arrow,Divergent,100
+1504,Vaal Clarity,Anomalous,100
+1505,Vaal Clarity,Divergent,100
+1506,Vaal Arc,Superior,50
+1507,Vaal Arc,Anomalous,100
+1508,Vaal Arc,Divergent,50
+1509,Vaal Arc,Phantasmal,20
+1510,Vaal Arctic Armour,Anomalous,100
+1511,Vaal Arctic Armour,Divergent,10
+1512,Vaal Cyclone,Anomalous,100
+1513,Vaal Cyclone,Divergent,100
+1514,Vaal Cyclone,Phantasmal,100
+1515,Hextouch Support,Superior,50
+1516,Hextouch Support,Divergent,100
+1517,Vaal Reave,Anomalous,20
+1518,Vaal Reave,Divergent,100
+1519,Vaal Reave,Phantasmal,10
+1520,Cast On Critical Strike Support,Superior,50
+1521,Cast on Melee Kill Support,Superior,50
+1522,Cast on Melee Kill Support,Divergent,20
+1523,Vaal Lightning Trap,Superior,50
+1524,Vaal Lightning Trap,Anomalous,100
+1525,Vaal Lightning Trap,Divergent,10
+1526,Vaal Spectral Throw,Anomalous,100
+1527,Vaal Spectral Throw,Divergent,20
+1528,Vaal Impurity of Fire,Anomalous,100
+1529,Vaal Impurity of Fire,Divergent,10
+1530,Vaal Impurity of Ice,Anomalous,100
+1531,Vaal Impurity of Ice,Divergent,10
+1532,Vaal Impurity of Lightning,Anomalous,100
+1533,Vaal Impurity of Lightning,Divergent,10
+1534,Vaal Storm Call,Anomalous,100
+1535,Vaal Storm Call,Divergent,100
+1536,Vaal Storm Call,Phantasmal,20
+1537,Vaal Flameblast,Anomalous,10
+1538,Vaal Flameblast,Divergent,20
+1539,Vaal Flameblast,Phantasmal,50
+1540,Infernal Cry,Phantasmal,10
+1541,Vaal Blade Vortex,Anomalous,10
+1542,Vaal Blade Vortex,Divergent,100
+1543,Vaal Blade Vortex,Phantasmal,100
+1544,Cast while Channelling Support,Superior,50
+1545,Cast while Channelling Support,Divergent,100
+1546,Vaal Flesh Offering,Superior,50
+1547,Vaal Flesh Offering,Anomalous,20
+1548,Vaal Flesh Offering,Divergent,100
+1549,Vaal Earthquake,Anomalous,100
+1550,Vaal Earthquake,Divergent,100
+1551,Vaal Earthquake,Phantasmal,5
+1552,Vaal Blight,Anomalous,100
+1553,Vaal Blight,Divergent,100
+1554,Vaal Ancestral Warchief,Anomalous,100
+1555,Vaal Ancestral Warchief,Divergent,20
+1556,Vaal Ancestral Warchief,Phantasmal,100
+1557,Bane,Superior,50
+1558,Shockwave Support,Superior,50
+1559,Shockwave Support,Anomalous,100
+1560,Shockwave Support,Divergent,100
+1561,Predator Support,Anomalous,100
+1562,Awakened Cast On Critical Strike Support,Superior,50
+1563,Awakened Cast While Channelling Support,Superior,50
+1564,Awakened Hextouch Support,Superior,50
+1565,Spellslinger,Superior,50
+1566,Spellslinger,Anomalous,100
+1567,Spellslinger,Divergent,20
+1568,Arcanist Brand,Anomalous,100
+1569,Arcanist Brand,Divergent,100
+1570,Arcanist Brand,Phantasmal,100
+1571,Impending Doom Support,Superior,50
+1572,Impending Doom Support,Divergent,20
+1573,Intuitive Link,Divergent,50
+1574,Vaal Volcanic Fissure,Anomalous,100
+1575,Frozen Legion,Superior,50
+1576,Vaal Cleave,Anomalous,20
+1577,Vaal Cleave,Divergent,50
+1578,Vaal Cleave,Phantasmal,50
+1579,Vaal Caustic Arrow,Anomalous,100
+1580,Vaal Caustic Arrow,Divergent,100
+1581,Vaal Molten Strike,Anomalous,100
+1582,Vaal Molten Strike,Divergent,20
+1583,Vaal Molten Strike,Phantasmal,100
+1584,Vaal Venom Gyre,Anomalous,100
+1585,Vaal Venom Gyre,Divergent,10
+1586,Vaal Smite,Anomalous,100
+1587,Vaal Smite,Divergent,100
+1588,Vaal Smite,Phantasmal,20
+1589,Vaal Blade Flurry,Anomalous,100
+1590,Vaal Blade Flurry,Divergent,50
+1591,Vaal Reap,Anomalous,50
+1592,Vaal Reap,Divergent,50
+1593,Vaal Animate Weapon,Anomalous,100
+1594,Vaal Animate Weapon,Divergent,50
+1595,Vaal Animate Weapon,Phantasmal,20
+1596,Vaal Lightning Arrow,Anomalous,100
+1597,Vaal Lightning Arrow,Divergent,100
+1598,Vaal Lightning Arrow,Phantasmal,10
+1599,Vaal Absolution,Superior,100
+1600,Vaal Absolution,Anomalous,50
+1601,Vaal Absolution,Divergent,50
+1602,Vaal Domination,Superior,50
+1603,Vaal Domination,Anomalous,100
+1604,Vaal Domination,Divergent,50
+1605,Vaal Domination,Phantasmal,10
+1606,Vaal Ice Shot,Anomalous,100
+1607,Vaal Ice Shot,Divergent,100
+1608,Vaal Firestorm,Anomalous,50
+1609,Vaal Firestorm,Divergent,20
+1610,Vaal Rejuvenation Totem,Anomalous,100
+1611,Vaal Rejuvenation Totem,Divergent,100
+1612,Vaal Split Arrow,Anomalous,20
+1613,Vaal Split Arrow,Divergent,100
+1614,Prismatic Burst Support,Superior,100
+1615,Prismatic Burst Support,Anomalous,50
+1616,Prismatic Burst Support,Divergent,50
+1617,Prismatic Burst Support,Phantasmal,50
+1618,Snipe,Anomalous,50
+1619,Snipe,Divergent,50
