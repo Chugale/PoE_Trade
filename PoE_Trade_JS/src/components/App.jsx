@@ -6,7 +6,6 @@ const App = () => {
   // const [view, setView] = useState('main');
   // const [gems, setGems] = useState([]);
   // const [isLoading, setIsLoading] = useState(false);
-
   //MARKET API CALL
   // const getGems = async () => {
   //   setIsLoading(true)
@@ -44,7 +43,6 @@ const App = () => {
   //     );
   //   }
   // }
-
   //testing
   const [users, setUsers] = useState([])
   useEffect(() => {
