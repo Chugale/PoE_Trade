@@ -2,10 +2,10 @@ require('dotenv').config();
 const { Pool } = require('pg');
 
 const pool = new Pool({
-  host: process.env.DB_HOST || 'localhost',
-  user: process.env.DB_USER || 'ericlee',
-  database: process.env.DB_NAME || 'skillgems',
-  password: process.env.DB_PASSWORD || '',
+  host: import.meta.env.VITE_DB_HOST || 'localhost',
+  user: import.meta.env.VITE_DB_USER || 'ericlee',
+  database: import.meta.env.VITE_DB_NAME || 'skillgems',
+  password: import.meta.env.VITE_DB_PASSWORD || '',
   max: 20
 })
 
