@@ -6,7 +6,7 @@
   "scripts": {
     "tailwind": "npx tailwindcss -i client/src/input.css -o client/dist/output.css --watch",
     "server-dev": "nodemon server/app.js",
-    "client-dev": "npx webpack --watch",
+    "client-dev": "npx webpack --watch & npm run tailwind",
     "test": "echo \"Error: no test specified\" && exit 1",
     "webpack": "webpack --config webpack.config.js",
     "start": "npm i -g webpack ** npm run client-dev & npm run server-dev & npm run tailwind"

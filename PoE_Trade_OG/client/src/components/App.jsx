@@ -1,14 +1,20 @@
-import React, {useState, useEffect} from 'react';
+import React, {useState, useEffect, lazy, Suspense} from 'react';
 import axios from 'axios';
-// import {Button} from './Buttons/Button.jsx';
-// import Api_Calls from '../api_calls/Api_calls.jsx'
+import {Button} from './Buttons/Button.jsx';
 import CurrencyList from './Currency/CurrencyList.jsx'
+import Search from './SearchBar.jsx'
+
+import GemList from '../pages/Gems/Gems.jsx'
 
 const App = () => {
   const [view, setView] = useState('home');
   const [divine, setDivine] = useState (null);
   const [currency, setCurrency] = useState([]);
-  const [mirror, setMirror] = useState(null)
+  const [isLoading, setIsLoading] = useState(false);
+  // const [searchInput, setSearchInput] = useState('');
+  // pages
+  const [gems, setGems] = useState([]);
+  const [awakened, setAwakened] = useState([]);
 
   const currencyData = () => {
     axios.get('/api/currency')
@@ -23,10 +29,36 @@ const App = () => {
       console.log('FE Currency Error', err)
     })
   }
+  const getGemsData = async() => {
+    setIsLoading(true)
+    try{
+     const response = await axios.get('./api/gems')
+      const chunkedReg = response.data.regular
+      const chunkedAwa = response.data.awakened
+      console.log('test', chunkedAwa)
+
+      const combinedDataReg = chunkedReg.reduce((acc, chunk) => [...acc, ...chunk], [])
+      const combinedDataAwa = chunkedAwa.reduce((acc, chunk) => [...acc, ...chunk], [])
+
+      setGems(combinedDataReg)
+      setAwakened(combinedDataAwa)
+
+      //THIS IS BEFORE CHUNKING ON SERVER SIDE
+      // .then((response) => {
+        // console.log('this is response', response.data.regular) //results in array of arrays, inner array of obj
+        // setGems(response.data.regular)
+        // setAwakened(response.data.awakened)
+      // })
+    }catch(err) {console.log('app side error', err  )}
+      //THIS IS FOR PRE SERVER CHUNK
+      // .catch(err => console.log('APP side error', err))
+    setIsLoading(false)
+  }
 
 
   useEffect(() => {
     currencyData()
+    getGemsData()
   }, [])
 
 
@@ -36,16 +68,20 @@ const App = () => {
         return (
           <div>
             <h1>Welcome to Aggregated PoE Market Data</h1>
-            {/* <CurrencyList
-              currency={currency}
-              divine={divine}/> */}
-            <label>Divine Orb:{divine}</label>
-            <CurrencyList currency={currency} divine={divine} />
+              <label>Divine Orb:{divine}</label>
+              <CurrencyList
+                currency={currency}
+                divine={divine} />
           </div>
         );
       case 'gems':
         return (
-          <div>gem view</div>
+          <div>gem view
+            <GemList
+              divine={divine}
+              gems={gems}
+               />
+          </div>
         );
       case 'sextants':
         return (
@@ -60,7 +96,7 @@ const App = () => {
 
   return(
     <div>
-      {/* <Button setView={setView}/> */}
+      <Button setView={setView}/>
       {RenderView()}
     </div>
   )

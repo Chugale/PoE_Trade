@@ -39,13 +39,23 @@ module.exports = {
       const response = await axios.get(GemsAPI);
       const tooBig = response.data.lines.filter((gemObj) => gemObj.gemLevel >= 20 && gemObj.count >= 5);
       const chunkSize = 15;
+
+      const awake = response.data.lines.filter((gemObj) => gemObj.name.includes('Awakened') && gemObj.count >= 3);
+
       const result = {};
 
-      const chunkArr = []
+      const chunkArrReg = []
+      const chunkArrAwa = []
+
       for(let i = 0; i < tooBig.length; i += chunkSize) {
-        chunkArr.push(tooBig.slice(i, i + chunkSize))
+        chunkArrReg.push(tooBig.slice(i, i + chunkSize))
       }
-      result.regular = chunkArr
+      for(let i = 0; i < awake.length; i += chunkSize) {
+        chunkArrAwa.push(awake.slice(i, i + chunkSize))
+      }
+
+      result.regular = chunkArrReg
+      result.awakened = chunkArrAwa
       res.status(200).send(result)
     } catch(err) {
       console.log('API_CONTROLLER Gem error', err)
