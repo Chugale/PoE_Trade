@@ -43,16 +43,9 @@ const AwakenedGems = ({divine, awakened}) => {
       console.log(level)
     }
     return (
-      <div className="flex">
-        <div className="m-8 relative overflow-y-auto max-h-[36rem]">
-
-          {/* <section className="inline-flex"> */}
-            {/* <Search
-              searchInput={searchInput}
-              setSearchInput={setSearchInput} /> */}
-          {/* </section> */}
-
-          <table className="border-spacing-5 py-3 divide-y divide-gray-300 bg-gray-500">
+      <div className="flex space-x-1">
+        <section className="border relative overflow-y-auto max-h-[50rem]">
+          <table className="px-2 border-spacing-5 py-3 divide-y divide-gray-300 bg-gray-500">
             <thead className="flex-box">
               <tr className="sticky top-0 bg-gray-500">
                 <th scope="col" className=" px-2 py-2">Name</th>
@@ -66,7 +59,7 @@ const AwakenedGems = ({divine, awakened}) => {
             }
             </tbody>
           </table>
-        </div>
+        </section>
         <section className="flex-auto">
           <BeastTable
             level={level}

@@ -3,7 +3,7 @@ import React, {useState} from 'react';
 const GemsSelection = ({setSelection}) => {
 
   return(
-    <label className="m-8">
+    <label>
       <select
         onChange={(e) => setSelection(e.target.value)}>
         <option value="/">All</option>
