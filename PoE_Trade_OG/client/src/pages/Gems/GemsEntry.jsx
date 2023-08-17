@@ -1,7 +1,7 @@
 import React, {useEffect, useState} from 'react';
+import {images} from '../../assets/Images.jsx';
 import axios from 'axios';
 
-const div = 'https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ3VycmVuY3lNb2RWYWx1ZXMiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/e1a54ff97d/CurrencyModValues.png'
 
 const GemsEntry = ({gemObj}) => {
   const [types, setTypes] = useState('')
@@ -36,8 +36,7 @@ const GemsEntry = ({gemObj}) => {
       <td className="px-2 py-2">
         {/* L/Q */}
         {gemObj.variant}</td>
-      <td className="flex px-2 py-2 justify-between">{gemObj.divineValue}
-        <img src={div} className="flex max-w-5 max-h-5 justify-between"></img></td>
+      <td className="flex px-2 py-2 justify-between">{gemObj.divineValue}{images.Divine}</td>
         <td className="px-2 py-2 text-center">{types.superior}</td>
         <td className="px-2 py-2 text-center">{types.divergent}</td>
         <td className="px-2 py-2 text-center">{types.anomalous}</td>

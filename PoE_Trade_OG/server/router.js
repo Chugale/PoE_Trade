@@ -5,6 +5,7 @@ const controller = require('./controller');
 router.get('/api/currency', controller.api.getCurrency);
 // router.get('/api/lens', controller.getLens);
 router.get('/api/gems', controller.api.getGems);
+router.get('/api/beasts', controller.api.getBeasts);
 
 //db endpoints
 router.get('/db/gem_weight', controller.db.gem_Weight);

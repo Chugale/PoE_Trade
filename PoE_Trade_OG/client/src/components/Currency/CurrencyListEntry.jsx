@@ -1,9 +1,7 @@
 import React from 'react';
+import {images} from '../../assets/Images.jsx'
 
 const CurrencyListEntry = ({currObj, divine}) => {
-
-  const chaosOrb = 'https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ3VycmVuY3lSZXJvbGxSYXJlIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/d119a0d734/CurrencyRerollRare.png';
-  const divineOrb = 'https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ3VycmVuY3lNb2RWYWx1ZXMiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/e1a54ff97d/CurrencyModValues.png';
 
   const divConversion = () => {
     return (currObj.chaosEquivalent / divine).toFixed(1)
@@ -13,11 +11,9 @@ const CurrencyListEntry = ({currObj, divine}) => {
     <div className="flex justify-between">
       <label>
         {currObj.currencyTypeName}:
-      {divConversion()}
-      <img src={divineOrb} className="max-w-5 max-h-5 inline"></img> OR
+      {divConversion()}{images.Divine} OR
 
-      {currObj.chaosEquivalent.toFixed(1)}
-      <img src={chaosOrb} className="max-w-5 max-h-5 inline"></img>
+      {currObj.chaosEquivalent.toFixed(1)}{images.Chaos}
       </label>
     </div>
   )

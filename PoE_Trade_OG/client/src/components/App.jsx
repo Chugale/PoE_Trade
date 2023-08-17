@@ -5,13 +5,18 @@ import CurrencyList from './Currency/CurrencyList.jsx'
 import Search from './SearchBar.jsx'
 
 import GemList from '../pages/Gems/Gems.jsx'
+import AwakenedGems from '../pages/AwakenedGems/AwakenedGems.jsx'
 
 const App = () => {
   const [view, setView] = useState('home');
-  const [divine, setDivine] = useState (null);
   const [currency, setCurrency] = useState([]);
   const [isLoading, setIsLoading] = useState(false);
-  // const [searchInput, setSearchInput] = useState('');
+
+  //currency
+  const [divine, setDivine] = useState(null);
+  const [prime, setPrime] =  useState('');
+  const [secondary, setSecondary] = useState('');
+
   // pages
   const [gems, setGems] = useState([]);
   const [awakened, setAwakened] = useState([]);
@@ -22,7 +27,14 @@ const App = () => {
       let div = res.data[0]
       let curr = res.data.slice(1)
       setDivine(div[0].chaosEquivalent)
-      // console.log(curr)
+
+      for(let i = 0; i < curr.length; i++){
+        if(curr[i].currencyTypeName.includes("Prime")){
+          setPrime(curr[i].chaosEquivalent)
+        }else if(curr[i].currencyTypeName.includes("Secondary")){
+          setSecondary(curr[i].chaosEquivalent)
+        }
+      }
       setCurrency(curr)
     })
     .catch((err) => {
@@ -76,16 +88,21 @@ const App = () => {
         );
       case 'gems':
         return (
-          <div>gem view
+          <div>
             <GemList
               divine={divine}
               gems={gems}
-               />
+              prime={prime}
+              secondary={secondary} />
           </div>
         );
-      case 'sextants':
+      case 'awakened':
         return (
-          <div>sextant pricing</div>
+          <div>
+            <AwakenedGems
+            divine={divine}
+            awakened={awakened} />
+          </div>
         );
       case 'cards':
         return (
@@ -95,7 +112,7 @@ const App = () => {
   }
 
   return(
-    <div>
+    <div className="inline-flex">
       <Button setView={setView}/>
       {RenderView()}
     </div>

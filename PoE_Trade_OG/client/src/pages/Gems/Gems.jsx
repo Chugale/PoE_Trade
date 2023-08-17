@@ -1,9 +1,10 @@
-import React, {useState, useEffect} from 'react';
+import React, {useState} from 'react';
 import GemsEntry from './GemsEntry.jsx';
 import Search from '../../components/SearchBar.jsx';
 import GemsSelection from './GemsSelection.jsx';
+import {images} from '../../assets/Images.jsx'
 
-const GemList = ({divine, gems}) => {
+const GemList = ({divine, gems, prime, secondary}) => {
 
   const [searchInput, setSearchInput] = useState('');
   const [selection, setSelection] = useState('/');
@@ -17,7 +18,13 @@ const GemList = ({divine, gems}) => {
 
 
   return (
-    <div className="m-8 relative overflow-y-auto max-h-[32rem]">
+    <div className="m-8 relative overflow-y-auto max-h-[36rem] w-max">
+      <section>
+        <label>Primary: {(prime/divine).toFixed(1)}{images.Divine}</label>
+      </section>
+      <section>
+        <label>Secondary: {(secondary/divine).toFixed(1)}{images.Divine}</label>
+      </section>
       <section className="inline-flex">
         <Search
           searchInput={searchInput}
