@@ -2,7 +2,7 @@
 
 ## Table of Contents
 
-- [Path of Exile Market Arbitrage and Analysis](MVP)
+- [Path of Exile Market Arbitrage and Analysis]
   - [Table of Contents](#table-of-contents)
   - [Description](#description)
   - [Technologies Used](#technologies-used)
@@ -12,7 +12,7 @@
 
 ## Description
 
-MVP is a project that was created to demonstrate the use of a full stack application with React, Express, Node.js, and PostgreSQL. It consolidates and transforms game market information and ingame crafting weighting, allowing users to quickly take advantage of market inefficiencies.
+PoE_Trade is a project that was created to demonstrate the use of a full stack application with React, Express, Node.js, and PostgreSQL. It consolidates and transforms game market information and ingame crafting weighting, allowing users to quickly take advantage of market inefficiencies. Each folder represents new technologies being implemented across the stack, with PoE_Trade_OG being the original stack when learning to code.
 
 ## Technologies Used
 
