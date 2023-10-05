@@ -2,9 +2,9 @@ const axios = require('axios');
 
 //edit league as needed
 
-const GemsAPI = `https://poe.ninja/api/data/itemoverview?league=Crucible&type=SkillGem`;
-const CurrencyAPI = 'https://poe.ninja/api/data/currencyoverview?league=Crucible&type=Currency';
-const BeastAPI = 'https://poe.ninja/api/data/itemoverview?league=Crucible&type=Beast'
+const GemsAPI = `https://poe.ninja/api/data/itemoverview?league=Ancestor&type=SkillGem`;
+const CurrencyAPI = 'https://poe.ninja/api/data/currencyoverview?league=Ancestor&type=Currency';
+const BeastAPI = 'https://poe.ninja/api/data/itemoverview?league=Ancestor&type=Beast'
 
 module.exports = {
   getCurrency: (req, res) => {
@@ -23,7 +23,7 @@ module.exports = {
         const findDiv = (el) => el.currencyTypeName === 'Divine Orb'
         let index = setting.findIndex(findDiv)
         let div = setting.splice(index, 1)
-        setting.unshift(div)
+        setting.unshift(div[0])
         return setting
       })
       .then((result) => {

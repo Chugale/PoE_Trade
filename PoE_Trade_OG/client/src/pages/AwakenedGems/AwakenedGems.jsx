@@ -44,7 +44,7 @@ const AwakenedGems = ({divine, awakened}) => {
     }
     return (
       <div className="flex space-x-1">
-        <section className="border relative overflow-y-auto max-h-[50rem]">
+        <section className="border relative overflow-y-auto max-h-[48rem]">
           <table className="px-2 border-spacing-5 py-3 divide-y divide-gray-300 bg-gray-500">
             <thead className="flex-box">
               <tr className="sticky top-0 bg-gray-500">

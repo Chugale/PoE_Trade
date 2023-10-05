@@ -3,6 +3,8 @@ import axios from 'axios';
 import {Button} from './Buttons/Button.jsx';
 import CurrencyList from './Currency/CurrencyList.jsx'
 import Search from './SearchBar.jsx'
+import {Header} from './Buttons/Header.jsx'
+import {images} from '../assets/Images.jsx'
 
 import GemList from '../pages/Gems/Gems.jsx'
 import AwakenedGems from '../pages/AwakenedGems/AwakenedGems.jsx'
@@ -25,9 +27,8 @@ const App = () => {
     axios.get('/api/currency')
     .then((res) => {
       let div = res.data[0]
-      let curr = res.data.slice(1)
-      setDivine(div[0].chaosEquivalent)
-
+      let curr = res.data
+      setDivine(div.chaosEquivalent)
       for(let i = 0; i < curr.length; i++){
         if(curr[i].currencyTypeName.includes("Prime")){
           setPrime(curr[i].chaosEquivalent)
@@ -47,7 +48,7 @@ const App = () => {
      const response = await axios.get('./api/gems')
       const chunkedReg = response.data.regular
       const chunkedAwa = response.data.awakened
-      console.log('test', chunkedAwa)
+      // console.log('test', chunkedAwa)
 
       const combinedDataReg = chunkedReg.reduce((acc, chunk) => [...acc, ...chunk], [])
       const combinedDataAwa = chunkedAwa.reduce((acc, chunk) => [...acc, ...chunk], [])
@@ -79,8 +80,6 @@ const App = () => {
       case 'home':
         return (
           <div>
-            <h1>Welcome to Aggregated PoE Market Data</h1>
-              <label>Divine Orb:{divine}</label>
               <CurrencyList
                 currency={currency}
                 divine={divine} />
@@ -103,18 +102,17 @@ const App = () => {
             divine={divine}
             awakened={awakened} />
           </div>
-        );
-      case 'cards':
-        return (
-          <div>div card pricing</div>
         )
     };
   }
 
   return(
-    <div className="inline-flex">
-      <Button setView={setView}/>
-      {RenderView()}
+    <div>
+      <Header setView={setView}/>
+      <section className="flex flex-row">
+        <Button setView={setView}/>
+        {RenderView()}
+      </section>
     </div>
   )
 
