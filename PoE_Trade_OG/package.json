@@ -9,7 +9,7 @@
     "client-dev": "npx webpack --watch & npm run tailwind",
     "test": "echo \"Error: no test specified\" && exit 1",
     "webpack": "webpack --config webpack.config.js",
-    "start": "npm i -g webpack ** npm run client-dev & npm run server-dev & npm run tailwind"
+    "start": "npm run client-dev & npm run server-dev & npm run tailwind"
   },
   "author": "Eric Lee",
   "license": "ISC",

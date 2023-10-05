@@ -8,14 +8,15 @@ const CurrencyListEntry = ({currObj, divine}) => {
   }
 
   return(
-    <div className="flex justify-between">
-      <label>
-        {currObj.currencyTypeName}:
-      {divConversion()}{images.Divine} OR
-
-      {currObj.chaosEquivalent.toFixed(1)}{images.Chaos}
-      </label>
-    </div>
+    <>
+      <tbody>
+        <tr className="text-center border">
+          <td colSpan="2">{currObj.currencyTypeName}</td>
+          <td>{currObj.chaosEquivalent.toFixed(1)}</td>
+          <td>{divConversion()}</td>
+        </tr>
+      </tbody>
+    </>
   )
 
 }

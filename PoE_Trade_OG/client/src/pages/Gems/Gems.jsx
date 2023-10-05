@@ -21,8 +21,8 @@ const GemList = ({divine, gems, prime, secondary}) => {
   return (
     <div className="flex space-x-1">
 
-      <section className="relative overflow-y-auto max-h-[50rem] w-max">
-      <section className="inline-flex space-x-16">
+      <section className="relative overflow-y-auto max-h-[48rem] w-max">
+      <section className="inline-flex space-x-20">
         <Search
           searchInput={searchInput}
           setSearchInput={setSearchInput} />
