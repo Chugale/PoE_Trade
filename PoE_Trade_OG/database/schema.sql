@@ -1,4 +1,4 @@
--- \i /Users/ericlee/HackReactor/MVP/database/schema.sql;
+-- \i /Users/ericlee/Desktop/TestProjects/PoE_Trade/PoE_Trade_OG/database/schema.sql;
 \c temp;
 DROP DATABASE IF EXISTS gems;
 CREATE DATABASE gems;
