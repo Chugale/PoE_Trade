@@ -22,21 +22,21 @@ const GemList = ({divine, gems, prime, secondary}) => {
     <div className="flex space-x-1">
 
       <section className="relative overflow-y-auto max-h-[48rem] w-max">
-      <section className="inline-flex space-x-20">
-        <Search
-          searchInput={searchInput}
-          setSearchInput={setSearchInput} />
-        <GemsSelection setSelection={setSelection}/>
-      <LensTable
-          prime={prime}
-          secondary={secondary}
-          divine={divine} />
-      </section>
+        <section className="inline-flex space-x-52">
+          <Search
+            searchInput={searchInput}
+            setSearchInput={setSearchInput} />
+        <LensTable
+            prime={prime}
+            secondary={secondary}
+            divine={divine} />
+        </section>
         <table className="border-spacing-5 py-3 divide-y divide-gray-300 bg-gray-500">
           <thead className="flex-box">
             <tr className="sticky top-0 bg-gray-500">
               <th scope="col" className="px-2 py-2">Name</th>
-              <th scope="col" className="px-2 py-2">L/Q</th>
+              <th scope="col" className="px-2 py-2">
+              <GemsSelection setSelection={setSelection}/> L/Q</th>
               <th scope="col" className="px-2 py-2">Price</th>
               <th scope="col" className="px-2 py-2">Superior</th>
               <th scope="col" className="px-2 py-2">Divergent</th>
